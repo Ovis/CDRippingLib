@@ -14,7 +14,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace CDRipperLib
+namespace CDRippingLib
 {
     /// <summary>
     /// Wrapper class for Win32 functions and structures needed to handle CD.

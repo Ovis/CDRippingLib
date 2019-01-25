@@ -14,7 +14,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace CDRipperLib
+namespace CDRippingLib
 {
     public class CDBufferFiller
     {
